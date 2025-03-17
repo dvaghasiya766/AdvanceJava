@@ -1,0 +1,17 @@
+.NavCustomBG {
+  background-color: rgb(255 255 255);
+  color: white;
+}
+.NavOLPlogo {
+  height: 35px;
+  margin-right: 10px;
+  border-radius: 3px;
+}
+.CustomNavLink {
+  color: #555;
+  text-decoration: none;
+  font-family: "Source Sans Medium", sans-serif;
+  margin: 0px 12px;
+  cursor: pointer;
+  font-size: large;
+}
